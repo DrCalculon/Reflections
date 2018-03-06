@@ -7,12 +7,16 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If you are adding code to your local repository, then it might keep overwriting
+    the changes that you make.  It also allows others to change and push without
+    stuffing you up
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forking is for making a copy of someone else's repository
+    Cloning is for making a copy of your own
+    Branching is more making a different version of your own codebase
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
